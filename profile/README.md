@@ -1,4 +1,3 @@
-> **Note**: Instructors, please update this `readme.md` file with information relevant to your course. 
 
 # Welcome to Pursuit 10.2 Nights & Weekends!
 
