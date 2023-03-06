@@ -7,6 +7,6 @@ This GitHub organization is where you will find content and exercises for this c
 
 You may find the following links useful:
 
-- [Our Canvas Course]()
-- [Tim's Office Hours Sign-up]()
+- [Our Canvas Course](https://pursuit.instructure.com/courses/28)
+- [Tim's Office Hours Sign-up](https://calendly.com/tim-pursuit/tim-s-office-hours?month=2023-03)
 - [Gigi's Office Hours Sign-up]()
