@@ -12,3 +12,4 @@ You may find the following links useful:
 - [Our Notion page](https://www.notion.so/joinpursuit/Homepage-10-2-14e834cd0122450d9e35a22ad0497f5b)
 - [Tim's Office Hours Sign-up](https://calendly.com/tim-pursuit/tim-s-office-hours?month=2023-03)
 - [Gigi's Office Hours Sign-up]()
+- [Our Class Lecture Notes Repo](https://github.com/10-2-pursuit/10-2_class_notes)
